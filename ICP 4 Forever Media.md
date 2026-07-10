@@ -40,3 +40,106 @@ That's a two-sided marketplace, so there are really two possible ICPs depending 
 ---
 
 If your goal is revenue-driving lead gen (i.e., who to prospect and sell campaigns to), I'd build your list around the **Primary ICP** — artists, labels, agencies, and consumer brands with existing content and a growth budget. Want me to turn this into a more detailed targeting brief (e.g., specific job titles, tools/lists to pull from, or a lead-scoring rubric)?
+
+
+# 2
+
+# Forever Media — Lead Generation Targeting Brief
+*Primary ICP: Brands, Artists & Creators buying clipping campaigns*
+
+---
+
+## 1. Target Segments & Job Titles
+
+### Segment A: Independent Artists & Creators (self-service buyers)
+- Musicians / recording artists (independent or with small label backing)
+- Podcast hosts / co-hosts
+- Twitch or YouTube live streamers
+- Course creators, coaches, and "info product" founders
+- Solo mobile app or indie game developers
+
+**Titles to search:** Artist, Founder, Host, Streamer, Creator, Content Creator — often no formal title; identify by channel/account activity instead of job title.
+
+### Segment B: Artist Management, Labels & Talent Agencies
+- Titles: Artist Manager, Talent Manager, Head of Digital, Digital Strategist, Marketing Director, A&R / Creative Director, Head of Marketing
+- Company types: independent record labels, boutique artist management firms, podcast networks, esports/streamer talent agencies (e.g., multi-channel networks)
+
+### Segment C: Consumer Brands (performance/growth marketing buyers)
+- Titles: Growth Marketing Manager, Performance Marketing Lead, Head of Social, Community Manager, Influencer Marketing Manager, UGC Manager, CMO/VP Marketing (smaller companies)
+- Company types: mobile apps/games, fintech, DTC consumer products, beauty/fitness brands, sports betting/gaming, SaaS with consumer-facing product
+
+### Segment D: Creator/UGC Marketing Agencies (reseller/channel partners)
+- Titles: Agency Owner, Founder, Client Services Director, Campaign Manager
+- These agencies could resell or route campaigns through Forever Media, making them a force-multiplying lead type rather than a one-off customer.
+
+---
+
+## 2. Firmographic & Behavioral Filters
+
+| Filter | Ideal Criteria |
+|---|---|
+| Company size | 1–50 employees (solo creators up to boutique agencies) |
+| Content cadence | Publishes long-form video/audio at least weekly (podcast, stream, YouTube) |
+| Existing marketing spend | Already running paid social, influencer, or UGC campaigns |
+| Platform presence | Active accounts on TikTok, IG Reels, YouTube Shorts, or X with room to grow |
+| Funding/revenue signal | Recent funding round, album/single release, app launch, or product launch |
+| Hiring signal | Open roles for "Growth Marketer," "Social Media Manager," "Creator Partnerships," "Community Manager" |
+| Tech stack signal | Uses tools like Whop, Discord (for community monetization), influencer marketing platforms (Grin, Aspire, CreatorIQ) |
+
+---
+
+## 3. Where to Source Leads
+
+**Communities & Marketplaces**
+- Whop (search "clipping," "get paid to clip," "creator economy") — both to find buyers running their own clipping programs and competitor customer bases
+- Discord server directories (top.gg, disboard.org) filtered by "clipping," "creator," "UGC," "streamer" tags
+- Reddit: r/PodcastMarketing, r/Twitch, r/NewTubers, r/artists (for creators actively seeking distribution)
+
+**Professional/B2B Databases**
+- LinkedIn Sales Navigator — filter by title (see Section 1) + industry (Music, Entertainment, Marketing & Advertising, Computer Games) + company size 1–200
+- ZoomInfo / Apollo.io — filter by SIC/NAICS codes for Music Production, Advertising Services, Broadcasting, Mobile App Development
+- Crunchbase — recently funded consumer apps/games (signals ad budget available)
+
+**Platform-Native Discovery**
+- TikTok Creative Center / Chartmetric / Spotify for Artists (rising but under-distributed artists)
+- Podcast charts (Chartable, Spotify) — mid-tier podcasts (10K–500K downloads) most likely to want more reach without big label budgets
+- Twitch tracker sites (SullyGnome, TwitchTracker) — mid-size streamers (500–20K avg viewers)
+
+**Competitor & Adjacent Customer Lists**
+- Customers/case studies referenced by Clipping.io, Clipping.net, and similar competitor sites
+- Influencer marketing platform directories (Grin, Aspire, Upfluence) — their brand customers are natural adjacent buyers
+
+---
+
+## 4. Lead Scoring Rubric
+
+Score each lead 0–3 per category (max 15). Prioritize outreach for 10+.
+
+| Category | 0 pts | 1 pt | 2 pts | 3 pts |
+|---|---|---|---|---|
+| **Content volume** | No regular content | Monthly | Weekly | Multiple times/week |
+| **Existing distribution spend** | None known | Organic only | Occasional paid boosts | Active influencer/UGC budget |
+| **Platform fit** | Not on short-form platforms | On 1 platform, low activity | On 2+ platforms | Strong presence across TikTok/Reels/Shorts |
+| **Growth trigger** | No recent activity | Steady, no recent news | Recent release/launch | Funding round, viral moment, or major launch in last 60 days |
+| **Buying authority** | Unclear decision-maker | Junior marketing contact | Marketing manager/director | Founder, CMO, or agency owner |
+
+**Tiering**
+- **Tier 1 (12–15):** Direct outreach priority — likely fast close, has budget + need
+- **Tier 2 (8–11):** Nurture sequence — good fit, needs education or timing
+- **Tier 3 (<8):** Low priority / long-term list only
+
+---
+
+## 5. Outreach Angle by Segment
+
+- **Independent artists/creators:** Lead with "pay only for verified views" — low-risk, performance-based pitch. Show payout transparency (ClipX analytics).
+- **Labels/agencies:** Lead with scale — ability to run campaigns across a full artist roster with centralized reporting.
+- **Consumer brands:** Lead with performance-marketing framing — comparable CPM/CPV to paid social but with authentic creator-style content and a large distributed clipper network.
+- **Agencies (channel partners):** Lead with white-label/reseller potential and margin opportunity from routing client campaigns through Forever Media.
+
+---
+
+## 6. Suggested Next Steps
+1. Pull an initial list of 100–200 leads split across Segments A–C using the sourcing channels above.
+2. Apply the scoring rubric to prioritize Tier 1 outreach first.
+3. A/B test the outreach angles above by segment to identify highest response rate before scaling volume.
