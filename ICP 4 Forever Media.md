@@ -143,3 +143,31 @@ Score each lead 0–3 per category (max 15). Prioritize outreach for 10+.
 1. Pull an initial list of 100–200 leads split across Segments A–C using the sourcing channels above.
 2. Apply the scoring rubric to prioritize Tier 1 outreach first.
 3. A/B test the outreach angles above by segment to identify highest response rate before scaling volume.
+
+# Which US state are best  and less crowded  to research the above leads ?
+
+Good question — this matters because if you're prospecting in LA or NYC, you're competing with every other clipping agency, UGC platform, and influencer marketing shop chasing the same accounts. Targeting states with real creator/artist density but *less* competitive saturation gives you an easier path to booking meetings and lower CPA on outreach.
+
+## Avoid (oversaturated)
+- **California** — LA is creator economy ground zero; every competitor is already there
+- **New York** — Same issue: heaviest concentration of talent agencies, labels, and marketing agencies already fielding these pitches
+
+## Best "sweet spot" states (strong creator/artist base, less agency competition)
+
+| State | Why it works |
+|---|---|
+| **Tennessee** (Nashville) | Deep concentration of independent musicians, songwriters, and artist managers — but far fewer clipping/UGC agencies actively prospecting them compared to LA/NY. Music-first ICP fits Segment A/B well. |
+| **Georgia** (Atlanta) | Major hip-hop/music industry hub plus growing film/podcast scene, but agency competition is noticeably thinner than the coasts. |
+| **Texas** (Austin, Dallas) | Large podcast, gaming, and streamer population (Austin especially), lower cost of living draws indie creators, still under-targeted by clipping-specific outreach. |
+| **Florida** (Miami, Orlando) | Fast-growing creator/agency relocation destination (no state income tax draws creators and marketers), gaming/esports presence in Orlando, competition still catching up to the inbound growth. |
+| **Utah** (Salt Lake City / "Silicon Slopes") | Unusually high creator-per-capita density (spillover from the social-media-native culture there), strong influencer/course-creator scene, very few clipping agencies actively working the region. |
+| **North Carolina** (Charlotte, Raleigh) | Rising esports/gaming and streamer scene tied to universities and a growing tech corridor, minimal dedicated competition. |
+
+## Lower priority but worth a look
+- **Illinois** (Chicago) — solid podcast/media scene, moderate competition
+- **Colorado** (Denver/Boulder) — outdoor/lifestyle creators, gaming, small but real scene
+- **Washington** (Seattle) — gaming/Twitch-adjacent culture (Amazon/Twitch HQ), but tech-agency competition is picking up
+
+**Practical approach:** I'd run your first prospecting sprint in **Tennessee + Georgia** (music/artist-manager ICP, Segment B) and **Texas + Florida** (podcast/streamer/brand ICP, Segment A/C) — you get real density without competing for attention against every other clipping platform already blanketing LA and NYC inboxes.
+
+Want me to fold this into the targeting brief as a "Geographic Prioritization" section, or pull an actual list of agencies/creators based in these states to start with?
