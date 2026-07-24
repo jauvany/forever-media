@@ -171,3 +171,124 @@ Good question — this matters because if you're prospecting in LA or NYC, you'r
 **Practical approach:** I'd run your first prospecting sprint in **Tennessee + Georgia** (music/artist-manager ICP, Segment B) and **Texas + Florida** (podcast/streamer/brand ICP, Segment A/C) — you get real density without competing for attention against every other clipping platform already blanketing LA and NYC inboxes.
 
 Want me to fold this into the targeting brief as a "Geographic Prioritization" section, or pull an actual list of agencies/creators based in these states to start with?
+
+# Full list of USA state with high  demand for short form video promotions, Pair the results in city and state.
+
+Below are high-demand U.S. cities paired with their states for **short-form video promotion, TikTok, Instagram Reels, YouTube Shorts, UGC, and social media marketing services**.
+
+| City             | State          |
+| ---------------- | -------------- |
+| Los Angeles      | California     |
+| San Diego        | California     |
+| San Francisco    | California     |
+| San Jose         | California     |
+| Sacramento       | California     |
+| Fresno           | California     |
+| Long Beach       | California     |
+| Oakland          | California     |
+| Irvine           | California     |
+| Anaheim          | California     |
+| Dallas           | Texas          |
+| Houston          | Texas          |
+| Austin           | Texas          |
+| San Antonio      | Texas          |
+| Fort Worth       | Texas          |
+| Plano            | Texas          |
+| Irving           | Texas          |
+| Frisco           | Texas          |
+| McKinney         | Texas          |
+| Arlington        | Texas          |
+| Miami            | Florida        |
+| Orlando          | Florida        |
+| Tampa            | Florida        |
+| Jacksonville     | Florida        |
+| Fort Lauderdale  | Florida        |
+| St. Petersburg   | Florida        |
+| West Palm Beach  | Florida        |
+| Naples           | Florida        |
+| Sarasota         | Florida        |
+| Boca Raton       | Florida        |
+| New York City    | New York       |
+| Buffalo          | New York       |
+| Rochester        | New York       |
+| Syracuse         | New York       |
+| Albany           | New York       |
+| Yonkers          | New York       |
+| White Plains     | New York       |
+| Atlanta          | Georgia        |
+| Savannah         | Georgia        |
+| Augusta          | Georgia        |
+| Columbus         | Georgia        |
+| Macon            | Georgia        |
+| Chicago          | Illinois       |
+| Naperville       | Illinois       |
+| Aurora           | Illinois       |
+| Rockford         | Illinois       |
+| Joliet           | Illinois       |
+| Phoenix          | Arizona        |
+| Scottsdale       | Arizona        |
+| Mesa             | Arizona        |
+| Chandler         | Arizona        |
+| Gilbert          | Arizona        |
+| Charlotte        | North Carolina |
+| Raleigh          | North Carolina |
+| Durham           | North Carolina |
+| Greensboro       | North Carolina |
+| Winston-Salem    | North Carolina |
+| Nashville        | Tennessee      |
+| Memphis          | Tennessee      |
+| Knoxville        | Tennessee      |
+| Chattanooga      | Tennessee      |
+| Murfreesboro     | Tennessee      |
+| Denver           | Colorado       |
+| Colorado Springs | Colorado       |
+| Boulder          | Colorado       |
+| Fort Collins     | Colorado       |
+| Aurora           | Colorado       |
+| Seattle          | Washington     |
+| Bellevue         | Washington     |
+| Tacoma           | Washington     |
+| Spokane          | Washington     |
+| Vancouver        | Washington     |
+| Salt Lake City   | Utah           |
+| Provo            | Utah           |
+| Lehi             | Utah           |
+| Sandy            | Utah           |
+| Ogden            | Utah           |
+| Boston           | Massachusetts  |
+| Cambridge        | Massachusetts  |
+| Worcester        | Massachusetts  |
+| Springfield      | Massachusetts  |
+| Lowell           | Massachusetts  |
+| Las Vegas        | Nevada         |
+| Henderson        | Nevada         |
+| Reno             | Nevada         |
+| Paradise         | Nevada         |
+| Sparks           | Nevada         |
+| Columbus         | Ohio           |
+| Cleveland        | Ohio           |
+| Cincinnati       | Ohio           |
+| Toledo           | Ohio           |
+| Akron            | Ohio           |
+| Philadelphia     | Pennsylvania   |
+| Pittsburgh       | Pennsylvania   |
+| Allentown        | Pennsylvania   |
+| Harrisburg       | Pennsylvania   |
+| Lancaster        | Pennsylvania   |
+| Detroit          | Michigan       |
+| Grand Rapids     | Michigan       |
+| Ann Arbor        | Michigan       |
+| Lansing          | Michigan       |
+| Warren           | Michigan       |
+| Newark           | New Jersey     |
+| Jersey City      | New Jersey     |
+| Hoboken          | New Jersey     |
+| Princeton        | New Jersey     |
+| Edison           | New Jersey     |
+| Portland         | Oregon         |
+| Eugene           | Oregon         |
+| Salem            | Oregon         |
+| Bend             | Oregon         |
+| Hillsboro        | Oregon         |
+
+These **100 city-state pairs** represent some of the strongest U.S. markets for businesses that commonly invest in short-form video marketing and content creation, making them excellent targets for SDR outreach and lead generation.
